@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "open": "^8.4.0",
     "ping": "^0.4.2",
-    "process-list": "^2.0.0",
     "proxmox-api": "^0.4.2",
     "ps-list": "^8.1.0"
   }
