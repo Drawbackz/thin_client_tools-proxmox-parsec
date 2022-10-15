@@ -1,0 +1,17 @@
+{
+  "parsec": {
+    "autoRestart": true,
+    "executable": "parsecd"
+  },
+  "proxmox": {
+    "autoRestart": true,
+    "host": "127.0.0.1",
+    "tokenID": "",
+    "tokenSecret": "",
+    "node": {
+      "name": "",
+      "vmID": 0,
+      "vmIP": "127.0.0.1"
+    }
+  }
+}
